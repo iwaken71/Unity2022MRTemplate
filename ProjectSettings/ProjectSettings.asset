@@ -134,10 +134,7 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: 3857816577132075129, guid: c13f2e9311f4dc04bb9ed024b6150b8a, type: 2}
-  - {fileID: 11400000, guid: 8f2a3e5741d9ff8408239c26ecec3ca7, type: 2}
-  - {fileID: -3340282837271156431, guid: 2773170fcbbb03641a2719e54bd90e86, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -764,7 +761,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: HoloLens2022
-  metroPackageVersion: 1.0.1.0
+  metroPackageVersion: 1.0.2.0
   metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
